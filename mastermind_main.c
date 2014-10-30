@@ -1,17 +1,3 @@
-/*	cahn006_LabProjectFinal.c - 6-3-13
- *	Name & E-mail:  - Christopher Ahn cahn006@ucr.edu
- *	CS Login: cahn006
- *	Partner(s) Name & E-mail:  - Ellison Zhu ezhu002@ucr.edu
- *	Lab Section: 021
- *	Assignment: Lab Final Project
- *	Project Description: A game called Mastermind where you try to guess the Hiddencode!
- *
- *
- *	I acknowledge all content contained herein, excluding template or example
- *	code, is my own original work.
- */
-
-
 #include <avr/io.h>
 #include <ucr/bit.h>
 #include <ucr/lcd_8bit_task.h>
