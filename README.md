@@ -1,3 +1,3 @@
 README
 ==========
-This project is modeled after the board game called Mastermind.
+This project is modeled after the board game called Mastermind. In the game Mastermind, there are two players. One of which makes a hidden code while the other attempts to guess the code. In each attempt at guessing the hidden code, there will be hints given to help guide the guesser in how they guess. After a certain amount of rounds, either the guesser would have been victorious in finding the hidden code or not being able to correctly guess the code.
